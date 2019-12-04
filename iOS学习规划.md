@@ -2,6 +2,8 @@
 
 [TOC]
 
+- 应当每周至少一篇文章,截止日期在星期天以前
+
 ##知识点梳理
 
 ###基础知识点
@@ -19,7 +21,7 @@
 - RunTime
 - RunLoop 系统的学习一下runloop
  - iOS开发高手课的介绍学习资料: https://time.geekbang.org/column/article/91714
-- 多线程
+- 多线程, 看看是不是都是基于pthread_t的封装,主要是pthread_t和NSThread为基础
 - 网络编程(Socket/http/https)
 - iOS架构的组件化,MVVM的结构使用,MVC
 - iOS的内存结构和C语言的内存结构
